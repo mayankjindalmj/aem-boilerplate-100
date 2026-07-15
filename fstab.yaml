@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://squall-freeness-legible.ngrok-free.dev/bin/franklin.delivery/mayankjindalmj/aem-boilerplate-ue-100/main
+    url: https://squall-freeness-legible.ngrok-free.dev/bin/franklin.delivery/mayankjindalmj/aem-boilerplate-100/main
     type: "markup"
     suffix: ".html"
